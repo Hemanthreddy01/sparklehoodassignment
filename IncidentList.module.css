@@ -1,0 +1,22 @@
+/* src/components/IncidentList.module.css */
+.incidentItem {
+    border: 1px solid #e2e8f0;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    border-radius: 8px;
+    background-color: #f9fafb;
+  }
+  
+  .button {
+    background-color: #4caf50;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #45a049;
+  }
+  
